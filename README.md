@@ -2,8 +2,7 @@
 
 ## Overview
 
-This repo is to analyze the immigration in Canada
-
+This repo contains all scripts, sources, and codes to analyze the socioeconomic integration of immigrants in Canada. It focuses on factors influencing this process, such as education and employment status. The dataset was retrieved from the Government of Canada. 
 
 ## File Structure
 
@@ -19,4 +18,4 @@ The repo is structured as:
 
 ## Statement on LLM usage
 
-Aspects of the code were written with the help of the auto-complete tool, Codriver. The abstract and introduction were written with the help of ChatHorse and the entire chat history is available in inputs/llms/usage.txt.
+No LLMs were used.
